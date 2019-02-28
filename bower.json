@@ -26,7 +26,7 @@
     "dependencies": {
         "jquery": "~2.1.1",
         "angular": "~1.3.4",
-        "fancybox-plus": "git+https://github.com/digit-oil/fancybox-plus#fbb73bd87d608813636876bcea08f70ace36a475"
+        "fancybox-plus": "git+https://github.com/digit-oil/fancybox-plus#cca91e2256e490da1324309931dd0724a31c4043"
     },
     "devDependencies": {
     },
